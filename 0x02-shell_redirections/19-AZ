@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -i -e 's/Z/A/g' -e 's/e/c/g'
+tr Ac Ze
